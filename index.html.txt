@@ -1,5 +1,3 @@
-# Tlops
-Hardware  Management System
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +6,6 @@ Hardware  Management System
     <title>Document</title>
 </head>
 <body>
-    TLOPs
-    
+    TLOPS
 </body>
 </html>
